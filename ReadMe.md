@@ -9,7 +9,7 @@ past this on your terminal window:
 
 Install mongodb:
 
-past this on your terminal window: 
+paste this on your terminal window: 
 
 `brew install mongodb`
 
@@ -35,7 +35,7 @@ On the new terminal window run `yarn build`.
 
 Finally run `node server.js`, open a browser window and go to http://localhost:3000/
 
-##Running the Photo Album app
+## Running the Photo Album app
 
 Clicking `All Photos` will show all the folders that have been uploaded to the gallery, along with their comments.
 
